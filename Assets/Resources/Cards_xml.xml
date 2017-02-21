@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card>
+    <id>1</id>
+    <name>Wrathblood Guardian</name>
+    <img>01_WBG</img>
+    <hp>5</hp>
+    <atk>1</atk>
+    <waitTime>3</waitTime>
+  </card>
+
+  <card>
+    <id>2</id>
+    <name>Nightblade</name>
+    <img>02_NBL</img>
+    <hp>1</hp>
+    <atk>2</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>3</id>
+    <name>Bloodeye Blademaster</name>
+    <img>03_BBM</img>
+    <hp>3</hp>
+    <atk>3</atk>
+    <waitTime>4</waitTime>
+  </card>
+
+  <card>
+    <id>4</id>
+    <name>Scytheslinger</name>
+    <img>04_SCS</img>
+    <hp>4</hp>
+    <atk>2</atk>
+    <waitTime>4</waitTime>
+  </card>
+
+  <card>
+    <id>5</id>
+    <name>A Raven</name>
+    <img>05_RAV</img>
+    <hp>8</hp>
+    <atk>2</atk>
+    <waitTime>8</waitTime>
+  </card>
+
+  <card>
+    <id>6</id>
+    <name>Knight if Conquest</name>
+    <img>06_KCQ</img>
+    <hp>7</hp>
+    <atk>2</atk>
+    <waitTime>5</waitTime>
+  </card>
+
+  <card>
+    <id>7</id>
+    <name>Headmaster</name>
+    <img>07_HMA</img>
+    <hp>1</hp>
+    <atk>1</atk>
+    <waitTime>1</waitTime>
+  </card>
+
+  <card>
+    <id>8</id>
+    <name>Destroyer of Worlds</name>
+    <img>08_DEW</img>
+    <hp>10</hp>
+    <atk>20</atk>
+    <waitTime>10</waitTime>
+  </card>
+
+  <card>
+    <id>9</id>
+    <name>Helling</name>
+    <img>09_HEL</img>
+    <hp>4</hp>
+    <atk>3</atk>
+    <waitTime>3</waitTime>
+  </card>
+
+  <card>
+    <id>10</id>
+    <name>Punkbuster</name>
+    <img>10_PBU</img>
+    <hp>5</hp>
+    <atk>3</atk>
+    <waitTime>4</waitTime>
+  </card>
+
+  <card>
+    <id>11</id>
+    <name>X32B Slayer</name>
+    <img>11_XBS</img>
+    <hp>5</hp>
+    <atk>5</atk>
+    <waitTime>3</waitTime>
+  </card>
+
+  <card>
+    <id>12</id>
+    <name>Mechamancer</name>
+    <img>12_MMA</img>
+    <hp>6</hp>
+    <atk>3</atk>
+    <waitTime>4</waitTime>
+  </card>
+
+  <card>
+    <id>13</id>
+    <name>test 13</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>14</id>
+    <name>test 14</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>15</id>
+    <name>test 15</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>16</id>
+    <name>test 16</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>17</id>
+    <name>test 17</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>18</id>
+    <name>test 18</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>19</id>
+    <name>test 19</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+
+  <card>
+    <id>20</id>
+    <name>test 20</name>
+    <img>Card Template</img>
+    <hp>2</hp>
+    <atk>3</atk>
+    <waitTime>2</waitTime>
+  </card>
+</cards>
